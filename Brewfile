@@ -8,14 +8,12 @@ cask install adobe-reader
 cask install alfred
 cask install atom
 cask install evernote
-cask install firefox
 cask install google-chrome
 cask install hipchat
 cask install iterm2
 cask install java
 cask install libreoffice
 cask install sequel-pro
-cask install sublime-text
 cask install vagrant
 cask install virtualbox
 cask install xquartz
