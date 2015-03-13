@@ -12,12 +12,18 @@ cask install firefox
 cask install google-chrome
 cask install hipchat
 cask install iterm2
+cask install java
 cask install libreoffice
 cask install sequel-pro
 cask install sublime-text
 cask install vagrant
 cask install virtualbox
 cask install xquartz
+
+## caskroom/versions
+tap caskroom/versions
+cask install firefox-ja
+cask install sublime-text3
 
 ## rcmdnk/file
 tap rcmdnk/file
