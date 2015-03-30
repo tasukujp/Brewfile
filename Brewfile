@@ -22,7 +22,6 @@ cask install xquartz
 ## caskroom/versions
 tap caskroom/versions
 cask install firefox-ja
-cask install sublime-text3
 
 ## rcmdnk/file
 tap rcmdnk/file
