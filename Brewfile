@@ -7,6 +7,7 @@ install brew-cask
 cask install adobe-reader
 cask install alfred
 cask install atom
+cask install dropbox
 cask install evernote
 cask install google-chrome
 cask install hipchat
@@ -64,6 +65,6 @@ install sqlite
 install zeromq
 
 # App Store applications
+appstore FreeMan
 appstore LINE
-appstore Memory Diag
 appstore Xcode
