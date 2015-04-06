@@ -6,6 +6,7 @@ tap caskroom/cask
 install brew-cask
 cask install adobe-reader
 cask install alfred
+cask install appcleaner
 cask install atom
 cask install dropbox
 cask install evernote
@@ -22,6 +23,7 @@ cask install xquartz
 ## caskroom/versions
 tap caskroom/versions
 cask install firefox-ja
+cask install java7
 
 ## rcmdnk/file
 tap rcmdnk/file
