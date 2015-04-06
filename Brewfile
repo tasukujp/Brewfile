@@ -46,9 +46,11 @@ install gettext
 install git
 install glib
 install gobject-introspection
+install gradle
 install harfbuzz
 install icu4c
 install jpeg
+install jsvc
 install libffi
 install libpng
 install libtiff
