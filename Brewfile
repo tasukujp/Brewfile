@@ -55,6 +55,7 @@ install libffi
 install libpng
 install libtiff
 install libtool
+install maven
 install mysql
 install openssl
 install pango
@@ -70,4 +71,5 @@ install zeromq
 # App Store applications
 appstore FreeMan
 appstore LINE
+appstore Pushbullet
 appstore Xcode
