@@ -3,70 +3,83 @@
 
 ## caskroom/cask
 tap caskroom/cask
-install brew-cask
-cask install adobe-reader
-cask install alfred
-cask install appcleaner
-cask install atom
-cask install dropbox
-cask install evernote
-cask install google-chrome
-cask install hipchat
-cask install iterm2
-cask install java
-cask install libreoffice
-cask install sequel-pro
-cask install vagrant
-cask install virtualbox
-cask install xquartz
+brew brew-cask
+cask adobe-reader
+cask alfred
+cask android-studio
+cask appcleaner
+cask atom
+cask dropbox
+cask evernote
+cask google-chrome
+cask hipchat
+cask iterm2
+cask java
+cask libreoffice
+cask sequel-pro
+cask vagrant
+cask virtualbox
+cask xquartz
 
 ## caskroom/versions
 tap caskroom/versions
-cask install firefox-ja
-cask install java7
+cask firefox-ja
+cask java7
+
+## homebrew/science
+tap homebrew/science
+brew r
 
 ## rcmdnk/file
 tap rcmdnk/file
-install brew-file
+brew brew-file
 
 ## sanemat/font
 tap sanemat/font
-install ricty
+brew ricty
 
 # Other Homebrew packages
-install autoconf
-install automake
-install cairo
-install czmq
-install fontconfig
-install fontforge
-install freetype
-install gdbm
-install gettext
-install git
-install glib
-install gobject-introspection
-install gradle
-install harfbuzz
-install icu4c
-install jpeg
-install jsvc
-install libffi
-install libpng
-install libtiff
-install libtool
-install maven
-install mysql
-install openssl
-install pango
-install pixman
-install pkg-config
-install python
-install rbenv
-install readline
-install ruby-build
-install sqlite
-install zeromq
+brew autoconf
+brew automake
+brew cairo
+brew cloog
+brew czmq
+brew fontconfig
+brew fontforge
+brew freetype
+brew gcc
+brew gdbm
+brew gettext
+brew git
+brew glib
+brew gmp
+brew gobject-introspection
+brew gradle
+brew harfbuzz
+brew icu4c
+brew isl
+brew jpeg
+brew jsvc
+brew libffi
+brew libmpc
+brew libpng
+brew libtiff
+brew libtool
+brew maven
+brew mpfr
+brew mysql
+brew openssl
+brew pango
+brew pcre
+brew pixman
+brew pkg-config
+brew python
+brew rbenv
+brew readline
+brew ruby-build
+brew sqlite
+brew xz
+brew zeromq
 
 # App Store applications
 appstore FreeMan
