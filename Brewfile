@@ -26,6 +26,9 @@ tap caskroom/versions
 cask firefox-ja
 cask java7
 
+## homebrew/binary
+tap homebrew/binary
+
 ## homebrew/science
 tap homebrew/science
 brew r
@@ -69,6 +72,7 @@ brew maven
 brew mpfr
 brew mysql
 brew openssl
+brew packer
 brew pango
 brew pcre
 brew pixman
