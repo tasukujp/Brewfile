@@ -17,6 +17,7 @@ cask iterm2
 cask java
 cask libreoffice
 cask sequel-pro
+cask slack
 cask vagrant
 cask virtualbox
 cask xquartz
@@ -72,6 +73,7 @@ brew maven
 brew mpfr
 brew mysql
 brew openssl
+brew p7zip
 brew packer
 brew pango
 brew pcre
