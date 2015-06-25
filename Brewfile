@@ -9,6 +9,7 @@ cask alfred
 cask android-studio
 cask appcleaner
 cask atom
+cask chefdk
 cask dropbox
 cask evernote
 cask google-chrome
@@ -64,6 +65,7 @@ brew icu4c
 brew isl
 brew jpeg
 brew jsvc
+brew libevent
 brew libffi
 brew libmpc
 brew libpng
@@ -84,6 +86,7 @@ brew rbenv
 brew readline
 brew ruby-build
 brew sqlite
+brew tmux
 brew xz
 brew zeromq
 
