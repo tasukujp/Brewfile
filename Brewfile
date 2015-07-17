@@ -9,7 +9,6 @@ cask alfred
 cask android-studio
 cask appcleaner
 cask atom
-cask chefdk
 cask evernote
 cask google-chrome
 cask hipchat
@@ -17,6 +16,7 @@ cask intellij-idea-ce
 cask iterm2
 cask java
 cask libreoffice
+cask rubymine
 cask sequel-pro
 cask slack
 cask vagrant
