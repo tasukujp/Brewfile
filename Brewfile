@@ -10,10 +10,10 @@ cask android-studio
 cask appcleaner
 cask atom
 cask chefdk
-cask dropbox
 cask evernote
 cask google-chrome
 cask hipchat
+cask intellij-idea-ce
 cask iterm2
 cask java
 cask libreoffice
