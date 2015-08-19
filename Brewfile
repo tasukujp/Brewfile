@@ -15,6 +15,7 @@ cask hipchat
 cask intellij-idea-ce
 cask iterm2
 cask java
+cask kindle
 cask libreoffice
 cask pycharm-ce
 cask r
