@@ -16,6 +16,9 @@ cask intellij-idea-ce
 cask iterm2
 cask java
 cask libreoffice
+cask pycharm-ce
+cask r
+cask rstudio
 cask rubymine
 cask sequel-pro
 cask slack
@@ -30,10 +33,6 @@ cask java7
 
 ## homebrew/binary
 tap homebrew/binary
-
-## homebrew/science
-tap homebrew/science
-brew r
 
 ## rcmdnk/file
 tap rcmdnk/file
@@ -71,9 +70,11 @@ brew libmpc
 brew libpng
 brew libtiff
 brew libtool
+brew lzop
 brew maven
 brew mpfr
 brew mysql
+brew nkf
 brew openssl
 brew p7zip
 brew packer
@@ -81,12 +82,15 @@ brew pango
 brew pcre
 brew pixman
 brew pkg-config
+brew postgresql
+brew pyenv
 brew python
 brew rbenv
 brew readline
 brew ruby-build
 brew sqlite
 brew tmux
+brew tree
 brew xz
 brew zeromq
 
