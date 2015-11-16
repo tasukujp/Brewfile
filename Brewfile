@@ -98,5 +98,7 @@ brew zeromq
 # App Store applications
 appstore FreeMan
 appstore LINE
+appstore Microsoft Remote Desktop
 appstore Pushbullet
+appstore Skitch
 appstore Xcode
