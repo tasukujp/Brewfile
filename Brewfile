@@ -87,6 +87,8 @@ brew python
 brew rbenv
 brew readline
 brew ruby-build
+brew sbt
+brew scala
 brew sqlite
 brew tmux
 brew tree
