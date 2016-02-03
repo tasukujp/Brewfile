@@ -1,7 +1,6 @@
 
 # tap repositories and their packages
 
-## caskroom/cask
 tap caskroom/cask
 brew brew-cask
 cask adobe-reader
@@ -12,12 +11,10 @@ cask atom
 cask evernote
 cask google-chrome
 cask hipchat
-cask intellij-idea-ce
 cask iterm2
 cask java
 cask kindle
 cask libreoffice
-cask pycharm-ce
 cask r
 cask rstudio
 cask rubymine
@@ -27,23 +24,22 @@ cask vagrant
 cask virtualbox
 cask xquartz
 
-## caskroom/versions
 tap caskroom/versions
 cask firefox-ja
+cask intellij-idea-ce
 cask java7
+cask pycharm-ce
 
-## homebrew/binary
 tap homebrew/binary
 
-## rcmdnk/file
 tap rcmdnk/file
 brew brew-file
 
-## sanemat/font
 tap sanemat/font
 brew ricty
 
 # Other Homebrew packages
+brew apache-spark
 brew autoconf
 brew automake
 brew cairo
@@ -69,6 +65,7 @@ brew libevent
 brew libffi
 brew libmpc
 brew libpng
+brew libsodium
 brew libtiff
 brew libtool
 brew lzop
