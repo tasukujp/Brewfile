@@ -39,6 +39,7 @@ tap sanemat/font
 brew ricty
 
 # Other Homebrew packages
+brew ansible
 brew apache-spark
 brew autoconf
 brew automake
@@ -89,6 +90,7 @@ brew ruby-build
 brew sqlite
 brew tmux
 brew tree
+brew typesafe-activator
 brew xz
 brew zeromq
 
