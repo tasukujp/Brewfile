@@ -22,6 +22,7 @@ cask sequel-pro
 cask slack
 cask vagrant
 cask virtualbox
+cask visual-studio-code
 cask xquartz
 
 tap caskroom/versions
