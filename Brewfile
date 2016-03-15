@@ -33,6 +33,9 @@ cask pycharm-ce
 
 tap homebrew/binary
 
+tap homebrew/dupes
+brew expect
+
 tap rcmdnk/file
 brew brew-file
 
@@ -83,6 +86,7 @@ brew pcre
 brew pixman
 brew pkg-config
 brew postgresql
+brew pwgen
 brew pyenv
 brew python
 brew rbenv
