@@ -27,7 +27,6 @@ cask xquartz
 
 tap caskroom/versions
 cask firefox-ja
-cask intellij-idea-ce
 cask java7
 cask pycharm-ce
 
