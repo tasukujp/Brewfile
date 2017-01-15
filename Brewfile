@@ -10,25 +10,21 @@ cask appcleaner
 cask atom
 cask evernote
 cask google-chrome
-cask hipchat
 cask iterm2
 cask java
 cask kindle
-cask libreoffice
 cask r
 cask rstudio
-cask rubymine
 cask sequel-pro
 cask slack
 cask vagrant
 cask virtualbox
 cask xquartz
+cask visual-studio-code
 
 tap caskroom/versions
 cask firefox-ja
-cask intellij-idea-ce
 cask java7
-cask pycharm-ce
 
 tap homebrew/binary
 
@@ -39,13 +35,13 @@ tap sanemat/font
 brew ricty
 
 # Other Homebrew packages
-brew ansible
 brew apache-spark
 brew autoconf
 brew automake
 brew cairo
 brew cloog
 brew czmq
+brew expect
 brew fontconfig
 brew fontforge
 brew freetype
@@ -59,6 +55,7 @@ brew gobject-introspection
 brew gradle
 brew harfbuzz
 brew icu4c
+brew imagemagick
 brew isl
 brew jpeg
 brew jsvc
@@ -69,11 +66,13 @@ brew libpng
 brew libsodium
 brew libtiff
 brew libtool
+brew libyaml
 brew lzop
 brew maven
 brew mpfr
 brew mysql
 brew nkf
+brew nodebrew
 brew openssl
 brew p7zip
 brew packer
@@ -82,6 +81,7 @@ brew pcre
 brew pixman
 brew pkg-config
 brew postgresql
+brew pwgen
 brew pyenv
 brew python
 brew rbenv
