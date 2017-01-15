@@ -13,8 +13,6 @@ cask google-chrome
 cask iterm2
 cask java
 cask kindle
-cask r
-cask rstudio
 cask sequel-pro
 cask slack
 cask vagrant
