@@ -21,7 +21,6 @@ cask vagrant
 cask virtualbox
 cask visual-studio-code
 cask xquartz
-cask visual-studio-code
 
 tap caskroom/versions
 cask firefox-ja
@@ -45,7 +44,6 @@ brew automake
 brew cairo
 brew cloog
 brew czmq
-brew expect
 brew fontconfig
 brew fontforge
 brew freetype
