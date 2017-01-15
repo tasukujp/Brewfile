@@ -19,6 +19,7 @@ cask sequel-pro
 cask slack
 cask vagrant
 cask virtualbox
+cask visual-studio-code
 cask xquartz
 cask visual-studio-code
 
@@ -27,6 +28,9 @@ cask firefox-ja
 cask java7
 
 tap homebrew/binary
+
+tap homebrew/dupes
+brew expect
 
 tap rcmdnk/file
 brew brew-file
