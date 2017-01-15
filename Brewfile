@@ -24,8 +24,6 @@ tap caskroom/versions
 cask firefox-ja
 cask java7
 
-tap homebrew/binary
-
 tap homebrew/dupes
 brew expect
 
@@ -99,7 +97,6 @@ brew zeromq
 # App Store applications
 appstore FreeMan
 appstore LINE
-appstore Microsoft Remote Desktop
 appstore Pushbullet
 appstore Skitch
 appstore Xcode
