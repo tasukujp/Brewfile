@@ -24,6 +24,7 @@ cask visual-studio-code
 cask xquartz
 
 tap caskroom/versions
+cask google-chrome-canary
 cask java7
 
 tap homebrew/core
@@ -51,7 +52,9 @@ brew icu4c
 brew imagemagick
 brew isl
 brew isl@0.12
+brew jetty
 brew jpeg
+brew jq
 brew jsvc
 brew libevent
 brew libffi
@@ -69,6 +72,7 @@ brew mpfr
 brew mysql
 brew nkf
 brew nodebrew
+brew oniguruma
 brew openssl
 brew p7zip
 brew packer
@@ -87,7 +91,9 @@ brew ruby-build
 brew sbt
 brew scala
 brew sqlite
+brew tig
 brew tmux
+brew tomcat
 brew tree
 brew typesafe-activator
 brew xz
