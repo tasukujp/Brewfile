@@ -1,40 +1,15 @@
 
 # tap repositories and their packages
 
-tap caskroom/cask
-cask adobe-reader
-cask alfred
-cask android-studio
-cask appcleaner
-cask atom
-cask chatwork
-cask evernote
-cask firefox
-cask google-chrome
-cask intellij-idea
-cask iterm2
-cask java
-cask kindle
-cask sequel-pro
-cask skype
-cask slack
-cask vagrant
-cask virtualbox
-cask visual-studio-code
-cask xquartz
-
-tap caskroom/versions
-cask google-chrome-canary
-cask java7
-
 tap homebrew/core
-brew apache-spark
 brew autoconf
 brew automake
 brew cairo
 brew cloog
 brew czmq
+brew direnv
 brew doxygen
+brew expect
 brew fontconfig
 brew fontforge
 brew freetype
@@ -44,18 +19,18 @@ brew gettext
 brew git
 brew glib
 brew gmp
-brew gmp@4
 brew gobject-introspection
+brew goenv
 brew gradle
 brew harfbuzz
 brew icu4c
 brew imagemagick
 brew isl
-brew isl@0.12
 brew jetty
 brew jpeg
 brew jq
 brew jsvc
+brew libcouchbase
 brew libevent
 brew libffi
 brew libmpc
@@ -63,6 +38,7 @@ brew libpng
 brew libsodium
 brew libtiff
 brew libtool
+brew libxml2
 brew libyaml
 brew lzo
 brew lzop
@@ -72,6 +48,7 @@ brew mpfr
 brew mysql
 brew nkf
 brew nodebrew
+brew nvm
 brew oniguruma
 brew openssl
 brew p7zip
@@ -84,6 +61,7 @@ brew postgresql
 brew pwgen
 brew pyenv
 brew python
+brew r
 brew rbenv
 brew rbenv-gemset
 brew readline
@@ -100,10 +78,14 @@ brew xz
 brew zeromq
 
 tap homebrew/dupes
-brew expect
 
 tap homebrew/science
-brew r
+
+tap homebrew/versions
+
+tap caskroom/cask
+
+tap caskroom/versions
 
 tap rcmdnk/file
 brew brew-file
@@ -111,12 +93,42 @@ brew brew-file
 tap sanemat/font
 brew ricty
 
+# Other Homebrew packages
+brew gmp@4
+brew isl@0.12
+brew v8-315
+
+# Cask applications
+cask atom
+cask virtualbox
+cask visual-studio-code
+cask macvim
+cask skype
+cask appcleaner
+cask intellij-idea
+cask couchbase-server-community
+cask evernote
+cask iterm2
+cask chatwork
+cask kindle
+cask vagrant
+cask android-studio
+cask sequel-pro
+cask firefox
+cask google-chrome
+cask xquartz
+cask java
+cask alfred
+cask google-chrome-canary
+cask adobe-reader
+cask java7
+
 # App Store applications
 appstore 510934532 FreeMan (1.4.1)
 appstore 682658836 GarageBand (10.1.4)
+appstore 408981434 iMovie (10.1.4)
 appstore 409183694 Keynote (7.0.5)
 appstore 409203825 Numbers (4.0.5)
 appstore 409201541 Pages (6.0.5)
 appstore 425955336 Skitch (2.8)
 appstore 497799835 Xcode (8.2.1)
-appstore 408981434 iMovie (10.1.4)
