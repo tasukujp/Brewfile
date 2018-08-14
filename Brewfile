@@ -47,7 +47,6 @@ brew maven
 brew mpfr
 brew mysql
 brew nkf
-brew nodebrew
 brew nvm
 brew oniguruma
 brew openssl
@@ -98,30 +97,30 @@ brew gmp@4
 brew isl@0.12
 brew v8-315
 
-# Cask applications
-cask atom
-cask virtualbox
-cask visual-studio-code
-cask macvim
-cask skype
+# Other Cask applications
+cask adobe-reader
+cask alfred
+cask android-studio
 cask appcleaner
-cask intellij-idea
+cask atom
+cask chatwork
 cask couchbase-server-community
 cask evernote
-cask iterm2
-cask chatwork
-cask kindle
-cask vagrant
-cask android-studio
-cask sequel-pro
 cask firefox
 cask google-chrome
-cask xquartz
-cask java
-cask alfred
 cask google-chrome-canary
-cask adobe-reader
+cask intellij-idea
+cask iterm2
+cask java
 cask java7
+cask kindle
+cask macvim
+cask sequel-pro
+cask skype
+cask vagrant
+cask virtualbox
+cask visual-studio-code
+cask xquartz
 
 # App Store applications
 appstore 510934532 FreeMan (1.4.1)
